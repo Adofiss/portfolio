@@ -16,6 +16,11 @@ body {
   background: rgb(191 217 191)
 }
 
+/* img.logo {
+  height: 35px;
+  width: 35px;
+} */
+
 section {
   scroll-margin-top: 7em;
 }
